@@ -3,8 +3,9 @@ O projeto simula um gerenciador de foco e produtividade, permitindo ao usuário 
 
 
 
-📸 Preview
+
 <img width="467" height="987" alt="image" src="https://github.com/user-attachments/assets/3c0f7934-08c2-4156-810d-79af6855b29a" />
+<img width="453" height="981" alt="image" src="https://github.com/user-attachments/assets/a21cd72c-49b9-47ae-adf6-b7fed2a49075" />
 
 
 🚀 Tecnologias utilizadas
