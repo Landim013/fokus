@@ -1,50 +1,49 @@
-# Welcome to your Expo app 👋
+Aplicação desenvolvida durante o curso React Native: Navegando entre telas com expo router da Alura.
+O projeto simula um gerenciador de foco e produtividade, permitindo ao usuário criar ciclos de tarefas com temporizador e controle de pausas.
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+<img width="467" height="987" alt="image" src="https://github.com/user-attachments/assets/3c0f7934-08c2-4156-810d-79af6855b29a" />
+<img width="453" height="981" alt="image" src="https://github.com/user-attachments/assets/a21cd72c-49b9-47ae-adf6-b7fed2a49075" />
 
-2. Start the app
 
-   ```bash
-   npx expo start
-   ```
+🚀 Tecnologias utilizadas
+React Native
 
-In the output, you'll find options to open the app in a
+React Hooks
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+JavaScript
 
-## Get a fresh project
+Styled Components
 
-When you're ready, run:
+✨ Funcionalidades
+⏱️ Temporizador para ciclos de foco e descanso
 
-```bash
-npm run reset-project
-```
+➕ Cadastro e controle de tarefas
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+🔔 Alertas visuais e sonoros para o fim dos ciclos
 
-## Learn more
+📊 Histórico simples de sessões concluídas
 
-To learn more about developing your project with Expo, look at the following resources:
+🎨 Interface responsiva com Styled Components
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+📐 Design original
+Você pode conferir o conceito visual do projeto no Figma oficial do curso.
+https://www.figma.com/design/HxPyevdObY5docgVinS5Q0/React-Native--navegando-entre-telas-%7C-Fokus--Community-?node-id=1702-558&p=f&t=qIxDzBCh979ycPmb-0
 
-## Join the community
+⚙️ Como rodar o projeto
+bash
+Copiar
+Editar
+# Clone o repositório
+git clone https://github.com/Landim013/Fokus.git
+cd Fokus
 
-Join our community of developers creating universal apps.
+# Instale as dependências
+npm install
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+# Inicie o projeto
+npx expo start
