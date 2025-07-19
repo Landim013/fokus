@@ -32,7 +32,7 @@ const styles = StyleSheet.create({
     fontSize: 18,
   },
   outlineButton: {
-    backgroundColor: "trasparent",
+    backgroundColor: "transparent",
     borderColor: "#B872FF",
     borderWidth: 2,
   },
